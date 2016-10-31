@@ -20,7 +20,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #333;
+  color: #008ce8;
 }
 
 h2 {
@@ -319,6 +319,13 @@ section {
   margin-top: 35px;
 }
 
+#services p{
+  color: black;
+  text-align: center;
+
+
+}
+
 /*************************
 ********About CSS*******
 **************************/
@@ -329,7 +336,8 @@ section {
 
 #about-us h2 {
   margin-top: 0;
-  color: #fff;
+  color: white;
+  text-align: center;
 }
 
 #about-us .lead {
@@ -340,30 +348,16 @@ section {
 #about-us h1 {
   margin-bottom: 30px;
 }
-
-.progress{
-  height: 20px;
-  background-color: #fff;
-  border-radius: 0;
-  box-shadow: none;
-  -webkit-box-shadow: none;
-  margin-bottom: 25px;
-}
-
-.progress-bar{
-  box-shadow: none;
-  -webkit-box-shadow: none;
-  text-align: right;
-  padding-right: 12px;
-  font-size: 12px;
-  font-weight: 600;
+#about-us p {
+  text-align:center;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  letter-spacing: 0;
+  text-shadow: -2px -2px 2px #0000DF, 2px -2px 2px #0000DF, -2px 2px 2px #0000DF, 2px 2px 2px #0000DF;
 }
 
 
-.progress .progress-bar.six-sec-ease-in-out {
-  -webkit-transition: width 2s ease-in-out;
-  transition:  width 2s ease-in-out;
-}
 
 /*************************
 ********portfolio CSS*****
