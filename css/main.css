@@ -970,7 +970,10 @@ ul.address {
 #footer .social-icons ul li a.tumblr:hover {
   background-color: #ff6b00;
 }
-
+#blog h4{
+  font-size: 22px;
+  color: red;
+}
 /*Presets*/
 
 
