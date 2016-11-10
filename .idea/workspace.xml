@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b26d014-8f1c-4c47-ac5c-e0a24f9a1967" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Documentos/Licitaciones-contrato-y-fianzas.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Documentos/RFC.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Documentos/Requisitos-para-darse-de-alta-la-SEFIPLAN-Requisitos-del-Padrón-de-contratista.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Documentos/Requisitos-para-la-inscripcion_al_padron_de_contratistas-municipal-Cordoba-Ver.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Documentos/formato-de-inscripcion-colegio-de-arquitectos-cdmx.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slider/3.jpg" afterPath="$PROJECT_DIR$/images/slider/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Documentos/organigrama.pdf" afterPath="$PROJECT_DIR$/Documentos/organigrama.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Ferremax.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -322,7 +315,7 @@
       <workItem from="1478481844301" duration="3265000" />
       <workItem from="1478705542155" duration="5530000" />
       <workItem from="1478711924443" duration="305000" />
-      <workItem from="1478753957851" duration="1806000" />
+      <workItem from="1478753957851" duration="2488000" />
     </task>
     <task id="LOCAL-00001" summary="Agregados formatos">
       <created>1478489189724</created>
@@ -366,17 +359,24 @@
       <option name="project" value="LOCAL" />
       <updated>1478712039358</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="entrega final?">
+      <created>1478755809557</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1478755809557</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11577000" />
+    <option name="totallyTimeSpent" value="12259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -412,7 +412,8 @@
     <MESSAGE value="agregadas imagenes, documentos y servicio" />
     <MESSAGE value="contador de visitas" />
     <MESSAGE value="contador de visitas con estilos&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="contador de visitas con estilos&#10;" />
+    <MESSAGE value="entrega final?" />
+    <option name="LAST_COMMIT_MESSAGE" value="entrega final?" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
